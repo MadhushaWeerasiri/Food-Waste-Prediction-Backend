@@ -1,0 +1,1 @@
+{"data_columns": ["meals_served", "temperature_c", "humidity_percent", "day_of_week", "special_event", "past_waste_kg", "staff_experience_expert", "staff_experience_intermediate", "waste_category_grains", "waste_category_meat", "waste_category_vegetables"]}
